@@ -1,5 +1,8 @@
 # photool
-A CTF & general OSINT tool to gather exif &amp; strings data from images. 
+**A CTF & general OSINT tool to gather exif &amp; strings data from images.**
+
+Written in python, this tool allows you to extract exif data and strings from common image formats including jpg, png, gif & tiff.
+
 ![help](https://github.com/jamesryla/photool/assets/58945104/76406c9a-ca29-4c8c-81bd-640ebd3356b6)
 
 ![exif](https://github.com/jamesryla/photool/assets/58945104/d6e6f202-b9b5-450a-b3b0-99c6f75909ad)
