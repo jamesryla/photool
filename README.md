@@ -1,2 +1,2 @@
 # photool
-A CTF tool to gather exif &amp; strings data from images. 
+A CTF & general OSINT tool to gather exif &amp; strings data from images. 
