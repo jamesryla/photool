@@ -20,4 +20,4 @@ Extracting text can be useful too. Strings!
 Output to terminal, txt or csv.
 > file output sample
 
-![output](https://github.com/jamesryla/photool/assets/58945104/9f109225-0f39-46fe-aa14-3febbdd4b0b2)
+![outfiles](https://github.com/jamesryla/photool/assets/58945104/a67091c7-03d5-46e1-a8ce-02f211fe593b)
